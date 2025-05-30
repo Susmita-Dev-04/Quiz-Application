@@ -1,0 +1,28 @@
+# === NetBeans ===
+nbbuild/
+nbdist/
+nbproject/private/
+.build/
+nbproject/Makefile-*
+
+# === Build outputs ===
+build/
+dist/
+*.class
+
+# === OS-specific files ===
+.DS_Store
+Thumbs.db
+
+# === Logs & temporary files ===
+*.log
+*.tmp
+
+# === IDE configs ===
+*.iml
+*.ipr
+*.iws
+
+# === Misc ===
+*.bak
+*.swp
